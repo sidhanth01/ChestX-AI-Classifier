@@ -30,12 +30,12 @@ ChestX AI Classifier is a deep learning-based application that detects COVID-19 
 
 2. **Install dependencies** :
 
-- tensorflow
-- opencv-python
-- matplotlib
-- pandas
-- scikit-learn
-- gradio
+    - tensorflow
+    - opencv-python
+    - matplotlib
+    - pandas
+    - scikit-learn
+    - gradio
 
 3.**📁 Dataset**
 
